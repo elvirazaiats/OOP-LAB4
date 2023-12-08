@@ -1,0 +1,14 @@
+D:\oop-lab-4\oop-lab-4\bin\Debug\net7.0\oop-lab-4.exe
+D:\oop-lab-4\oop-lab-4\bin\Debug\net7.0\oop-lab-4.deps.json
+D:\oop-lab-4\oop-lab-4\bin\Debug\net7.0\oop-lab-4.runtimeconfig.json
+D:\oop-lab-4\oop-lab-4\bin\Debug\net7.0\oop-lab-4.dll
+D:\oop-lab-4\oop-lab-4\bin\Debug\net7.0\oop-lab-4.pdb
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.AssemblyInfoInputs.cache
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.AssemblyInfo.cs
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.csproj.CoreCompileInputs.cache
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.dll
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\refint\oop-lab-4.dll
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.pdb
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\oop-lab-4.genruntimeconfig.cache
+D:\oop-lab-4\oop-lab-4\obj\Debug\net7.0\ref\oop-lab-4.dll
